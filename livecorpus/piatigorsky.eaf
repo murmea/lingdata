@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-28T23:26:23+03:00"
+    FORMAT="2.7" VERSION="2.7"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/xenia/Downloads/lingdatahwpiatigorsky.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Downloads/lingdatahwpiatigorsky.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3dd18daf-d5d5-465a-8d42-e54338eb3829</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">130</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="2219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="2979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="2979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="3160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="3693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="3693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="5880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="6270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="6270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="8360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="8366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="9130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="12860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="12860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="12950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="13260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="13280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="13280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="15090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="16420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="18050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="18890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="21030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="21400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="23840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="24350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="32400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="32400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="33550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="33550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="34600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="35530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="36180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="36180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="37280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="38400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="48790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="48890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="49430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="49430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="49910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="49910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="51310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="51310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="53290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="53290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="54260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="54270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="54870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="54870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="55500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="55500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="56060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="56060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="57980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="57980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="58200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="58200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="59840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="59850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="61130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="61130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="63740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="63740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="63740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="63740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="65480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="65480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="66680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="66680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="66760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="66770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="68340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="68340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="68670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="68670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="69450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="69450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="70810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="70810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="76290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="76290"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="murmea" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="amp1929m" TIER_ID="text@amp1929m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE> да! //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>давайте скорей / только громче / я вас прошу //     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>аа к...любые вопросы // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>да // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>да //      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>а вот философия / это не просто мышление / а это мышление о мышлении / это уже обобщение какого-то мысл...имеющегося мыслительного / опыта //      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>сказать / сказать / например / что // человек был сотворен богом  это / конечно / факт мышления / но это еще не философия //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>философия это значит как //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>а почему я говорю? //     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>а что я думаю / когда я говорю / человек был сотворен богом? //    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>а почему я думаю так / а не иначе? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>а кто думает иначе? //      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>то есть философия это уже думает о думает / это уже начинается процесс интеллектуального обобщения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="i1900m" TIER_ID="text@i1900m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>можно вопрос? //        </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вы знаете / вот вообще просто такой вопрос как бы совершенно общий //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>вот как бы два слова есть в названии курса буддийская философия //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>я как бы кое-что знаю о буддизме / но я не знаю / что такое философия //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@amp1929m"
+        PARTICIPANT="amp1929m" TIER_ID="transl@amp1929m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Absolutely.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>But let's be quicker and louder, please.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Any questions.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>So, philosophy is not just thinking, it is thinking about thinking. It's something like a generalization of some existing mental expirience.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>To say for instance that man was created by god is certainly the process of thinking, but not yet philosophy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Philosophy means the following.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Why do I talk?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>What I think when I say that man was created by God?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Why do I think this way and not otherwise?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>And who thinks otherwise?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>So, philosophy is the process of intellectual generalization.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@i1900m"
+        PARTICIPANT="i1900m" TIER_ID="transl@i1900m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Can I ask you a question?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>You know, the thing is that my question is quite general.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>So, there are two words in the title of the course Buddhist philosophy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>I kinda know something about Budddhism, but I have no clue what is philosophy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="amp1929m" TIER_ID="spokencorpora@amp1929m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Да!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Давайте скорей!  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Только громче,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>я вас прошу.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>∙∙∙∙ А-а к = ‖ любые вопросы.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>∙∙∙∙∙ Да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>∙∙∙∙ Да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>∙∙∙∙ А вот философия —	  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>∙∙∙ это не просто мышление,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>∙∙ а это мышление о мышлении,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>∙∙∙ это уже обобщение какого-то мысл = ‖ имеющегося мыслительного ∙∙∙∙ опыта.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>∙∙∙∙ Сказать,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>∙∙∙ сказать,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>например,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>∙∙∙∙ что ∙∙∙∙ человек ∙∙ был сотворен богом  — </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>∙∙ это, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>конечно,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>факт мышления, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>но это еще не философия. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>∙∙∙ Философия —   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>это значит как:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>∙∙∙ А почему я говорю?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>∙∙ A что я думаю,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>когда я говорю,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>человек был сотворен богом?           </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>А почему я думаю так, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>а не иначе?    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>А кто думает иначе?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>∙∙ То есть философия —</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>это уже &gt; думает о думает &lt; ,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>это уже начинается процесс интеллектуального обобщения.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" LINGUISTIC_TYPE_REF="transcription"
+        PARENT_REF="spokencorpora@amp1929m" PARTICIPANT="amp1929m" TIER_ID="punct@amp1929m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>EXCLAM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>EXCLAM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>SPLIT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>SPLIT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>COLON</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>QUEST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>QUEST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>QUEST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>QUEST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>SPLIT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>COMMA</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>PERIOD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="murmea" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="spokencorpora@amp1929m" PARTICIPANT="amp1929m" TIER_ID="accents@amp1929m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>R</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="transcription" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="GB" LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
